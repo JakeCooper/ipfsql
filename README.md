@@ -1,2 +1,2 @@
 # ipfsql
-Go bindings for IPFS query language
+JavaScript bindings for IPFS query language
